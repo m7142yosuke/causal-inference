@@ -9,6 +9,10 @@ readme = "README.md"
 python = "^3.8"
 networkx = "2.8.8"
 jupyterlab = "^4.2.0"
+semopy = "^2.3.11"
+matplotlib = "3.7"
+seaborn = "^0.13.2"
+graphviz = "^0.20.3"
 
 
 [build-system]
